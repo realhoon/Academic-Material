@@ -1,2 +1,2 @@
-# Thesis
-Study for Thesis
+# Academic material
+Studies for AI
